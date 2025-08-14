@@ -1,6 +1,6 @@
 # Neural Style Transfer with OpenCV
 
-Transform your images and videos into stunning works of art using neural style transfer powered by OpenCV's Deep Neural Network module.
+Transformation of  images and videos using neural style transfer using OpenCV's Deep Neural Network module.
 
 ### requirements
 
